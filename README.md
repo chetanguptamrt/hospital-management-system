@@ -18,11 +18,11 @@ Module 6: Admin Panel
 
 Front-end Language - HTML, CSS(BootStrap), JavaScript, jQuery, Ajax
 
-Back-end Language - Java
+Back-end Language - Java 11
 
-Database - MySQL
+Database - MySQL 8.0.19
 
-IDE - NetBeans
+IDE - NetBeans 12.0
 
 Server - Apache Tomcat (localhost)
 
