@@ -15,6 +15,7 @@ Module 5: Contact with hospital
 
 Module 6: Admin Panel
 
+#Language - 
 
 Front-end Language - HTML, CSS(BootStrap), JavaScript, jQuery, Ajax
 
@@ -25,6 +26,6 @@ Database - MySQL 8.0.19
 IDE - NetBeans 12.0
 
 Server - Apache Tomcat (localhost)
-
+#How to use 
 
 First dump sql file then import zip file into NetBeans IDE and add library in project
