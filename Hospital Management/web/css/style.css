@@ -1,0 +1,71 @@
+.top-navbar{
+   background-color: #54d05d;
+   color: #000000;
+   font-size: 16px;
+}
+.top-link{
+    color: black;
+}
+.top-link:hover{
+    color: black;
+    text-decoration: none;
+}
+.brand-name{
+    color: #4bb545;
+}
+.brand-name-logo{
+    color: #4bb545 !important;
+    text-decoration: none;
+}
+.brand-name-logo:hover{
+    color: #4bb545 !important;
+    text-decoration: none;
+}
+@media only screen and (max-width: 991px) {
+    .brand-tag {
+        text-align: center;
+    }
+    .nav-after-resize-1{
+        display: block !important;
+    }
+    .nav-after-resize-2{
+        display: none;
+    }
+}
+@media only screen and (max-width: 767px){
+    .login-page{
+        display: none;
+    }
+}
+.navbar-custom-tag {
+    background-color: #dcdcdc !important;
+    color: #000000;
+    font-size: 18px;
+}
+.black-tag{
+    color: #000000 !important;
+}
+.contact-us{
+    font-size: 32px;
+    width: 48px;
+    background-color: #4bb545;
+    color: white;
+    padding: 16px;
+    border: 2px;
+    border-radius: 24px;
+    margin-bottom: 10px;
+}
+.banner{
+    color: #ffffff;
+    background-color: rgba(0,0,0,0.3);
+    padding-left: 10%;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+.login-link{
+    color: #2222ff !important;
+    cursor: pointer
+}
+.login-link:hover{
+    text-decoration: underline !important;
+}
